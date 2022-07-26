@@ -10,11 +10,6 @@
 - 📫 Connect with me at Linkedin - https://www.linkedin.com/in/khaing-thwe-1533391b7/
 - 😄 Pronouns: She/her/hers
 - ⚡ Fun fact: Ask me about my travel stories. I have the wildest travel story to share. 
----
-#### : fire: My Stats :
 
+#### 🔥 My Status :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Khaingz&hide_border=true)](https://git.io/streak-stats)
-
-
-
-
