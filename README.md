@@ -1,4 +1,4 @@
-- Hi there 👋 I am Khaing (Kai).
+- Hi there 👋 I am Khaing (Kassandra).
 - 👀 I’m passionate about Finance & Technology, intested in developing Fintech solution. My background is in Finance and Accounting and working as Finance Manager for 10       years. I am working to expand my knowledge in Fintech development.
 - 🧑‍🎓 Recently earned FinTech certificate from the University of Washington and continue to develop my skills in the FinTech and data analytics field.
 - 🔭 I’m currently working on Python and SQL project.
